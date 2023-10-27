@@ -1,5 +1,2 @@
 # Devops
-![Devops](devops.png)
-
-
-
+![Devops](devops.png) 
