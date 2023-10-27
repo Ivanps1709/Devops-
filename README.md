@@ -3,7 +3,7 @@
 
 # Indice
 ## 1. Introduccion
-1. [Introducción](https://github.com/Ivanps1709/Devops-/blob/main/Introducci%C3%B3n.md)
+1. [Introducción](Introducción.md)
 2. [Administrador de sistemas](https://github.com/Ivanps1709/Devops-/blob/main/asir.md)
 3. [Desarrollador](https://github.com/Ivanps1709/Devops-/blob/main/desarrollador.md)
 4. [Devops](https://github.com/Ivanps1709/Devops-/blob/main/devops.md)
