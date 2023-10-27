@@ -1,5 +1,5 @@
 # Devops
-![devops](https://github.com/Ivanps1709/Devops-/assets/145538676/8453124d-66d1-41f8-a492-076aa3cebef4)
+<img src="https://github.com/Ivanps1709/Devops-/assets/145538676/36ec0541-572b-49f4-a49d-27773d01449a" width="400" height="400" />
 
 # Indice
 ## 1. Introduccion
