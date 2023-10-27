@@ -3,3 +3,10 @@
 
 # Indice
 ## 1. Introduccion
+1. Introducción
+2. Administrador de sistemas
+3. Desarrollador
+4. Devops
+
+# Licencia 
+![licencia](licencia.png) 
